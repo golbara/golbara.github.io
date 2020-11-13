@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "GOlbarg"
+title                    : "Golbarg"
 title_separator          : "-"
 name                     : "گلبرگ" 
 description              : "Welcome to my web site."
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,19 +107,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Golbarg sepehrara"
+  name             : "Golbarg SepehrAra"
   avatar           : "/assets/images/4.jpg"
-  bio              : learning is interesting!!!!!!
+  bio              : learning is interesting!!!
   location         : "تهران"
   email            : golbarg.sepehrara@gmail.com
-  linkedin: sauleh
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: golbara
+  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:golbarg.sepehrara@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -162,7 +162,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "http://calendly.com/golbarg-sepehrara"
 
 
 # Reading Files
