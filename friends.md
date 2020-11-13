@@ -1,17 +1,22 @@
 ---
 layout: single
 author_profile: true
-permalink: /friends/
-title: My friends around the world
-tags: [friends]
-modified: 4-10-2019
+permalink: /persons/
+title: My favorit persons in history
+tags: [persons]
+modified:11-14-2020
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+### poets:
+* حافظ شیرازی
+* سعدی
+* نظامی
+*فردوسی
+*پروین اعتصامی
+### phisycians:
+*doctor gharib
+***all doctors who spare no pain about helping people in the time of COVID 19***
 
 
 
