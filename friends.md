@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /persons/
-title: My favorit persons in history
+title: My favorit persons in the history
 tags: [persons]
 modified:11-14-2020
 comments: true
@@ -16,7 +16,7 @@ comments: true
 *پروین اعتصامی
 ### phisycians:
 *doctor gharib
-***all doctors who spare no pain about helping people in the time of COVID 19***
+*all doctors who spare no pain about helping people in the time of COVID 19*
 
 
 
