@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "گلبرگ"
+title                    : "GOlbarg"
 title_separator          : "-"
-name                     : "Golbarg" 
+name                     : "گلبرگ" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -137,7 +137,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "http://calendly.com/golbarg-sepehrara"
 
 # Site Footer
 footer:
