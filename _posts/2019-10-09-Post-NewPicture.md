@@ -8,8 +8,8 @@ title:
 - 
 - 
 
-[my favorite website](http://www.google.com)
-[my favorit translator] (http://translator.google.com)
+- [my favorite website](http://www.google.com)
+- [my favorit translator](http://translator.google.com)
  
 
 
