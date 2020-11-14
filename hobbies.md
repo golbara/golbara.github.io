@@ -10,9 +10,9 @@ comments: false
 
 
 * swimming
-make puzzles
-walking
-reading books
-watching advanture and comedy movies
+* make puzzles
+* walking
+* reading books
+* watching advanture and comedy movies
 
 
