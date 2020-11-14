@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /persons/
+permalink: /friends/
 title: My favorit persons in the history
 tags: [persons]
 modified:11-14-2020

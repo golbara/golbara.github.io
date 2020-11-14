@@ -4,11 +4,15 @@ author_profile: true
 permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
-modified: 9-14-2019
+modified: 11-14-2020
 comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* swimming
+make puzzles
+walking
+reading books
+watching advanture and comedy movies
 
 
