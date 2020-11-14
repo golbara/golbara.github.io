@@ -6,8 +6,8 @@ main:
     url: /cv/
   - title: "Courses"
     url: /courses/
-  - title: "Friends"
-    url: /friends/
+  - title: "Persons"
+    url: /Persons/
   - title: "Links"
     url: /links/
   - title: "Hobbies"
