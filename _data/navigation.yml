@@ -7,7 +7,7 @@ main:
   - title: "Courses"
     url: /courses/
   - title: "Persons"
-    url: /persons/
+    url: /friends/
   - title: "Links"
     url: /links/
   - title: "Hobbies"
