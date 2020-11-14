@@ -13,8 +13,8 @@ comments: true
 * سعدی شیرازی(Saadi Shirazi)
 * نظامی(Nezami Ganjavi)
 ### phisycians:
-'Doctor Gharib'
-'all doctors who spare no pain about helping people in the time of COVID 19'
+**Doctor Gharib**
+**All doctors who spare no pain to help people in the time of COVID 19**
 
 
 
