@@ -14,6 +14,5 @@ comments: true
 * نظامی(Nezami Ganjavi)
 
 ### phisycians:
-**Doctor Gharib**
----
-**All doctors who spare no pain to help people in the time of COVID 19**
+Doctor Gharib
+All doctors who spare no pain to help people at the time of COVID 19
