@@ -20,9 +20,9 @@ comments: false
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2020|summer| **<a href="/ad97/">enjoy my holiday :) </a>**         |
+|2020|summer| **<a href="/ad97/">enjoying my holiday :) </a>**         |
 |----|------|--------------------------------|
-|2020|summer| **<a href="/ap97/">studying for "konkour"</a>** |
+|2020|summer| **<a href="/ap97/">studying for "Entrance Exame"</a>** |
 |----|------|--------------------------------|
-|2020|summer| **<a href="/nlp97/">studying for "konkour"</a>** |
+|2020|summer| **<a href="/nlp97/">studying for "Entrance Exame"</a>** |
 |----|------|--------------------------------|
