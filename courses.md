@@ -11,18 +11,18 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2020|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2020|Fall  | **Computer Programming Fundamentals**         |
 |----|------|--------------------------------|
-|2020|Fall  | **<a href="/ds98/">Work shop</a>** |
+|2020|Fall  | **"Work shop** |
 |----|------|--------------------------------|
-|2020|Fall  | **<a href="">Getting to know my major</a>** |
+|2020|Fall  | **Getting to know my major** |
 
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2020|Summer| **<a href="/ad97/">Enjoying my holiday :) </a>**         |
+|2020|Summer| **Enjoying my holiday :) **         |
 |----|------|--------------------------------|
-|2020|Summer| **<a href="/ap97/">Studying for "Entrance Exame"</a>** |
+|2020|Summer| ** "Entrance Exame"** |
 |----|------|--------------------------------|
-|2020|Summer| **<a href="/nlp97/">Studying for "Entrance Exame"</a>** |
+|2020|Summer| **Studying for "Entrance Exame"** |
 |----|------|--------------------------------|
