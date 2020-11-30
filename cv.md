@@ -14,5 +14,5 @@ comments: false
 |-----|----|----------------------------------------------------------------------------------|
 |2020 |now| **BS**, Computer Engineering ,Iran university of science and technology,Tehran
 |-----|----|----------------------------------------------------------------------------------|
-|2017 |2020| **diploma**,Mathematic & Physics,Farzanegan high school,Tehran
+|2017 |2020| **Diploma**,Mathematic & Physics,Farzanegan high school,Tehran
 |-----|----|-------------------------------------------------------------------------------------|

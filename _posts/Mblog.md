@@ -13,8 +13,6 @@ for many years my mind was engaged with this questsion:"what is the perpose of m
 
 - [my favorite website](http://www.google.com)
 
-
-
 - [my favorit translator](http://translator.google.com)
  
 
