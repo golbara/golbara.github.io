@@ -32,5 +32,5 @@ gallery:
      title: "niagara title captoin"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 
