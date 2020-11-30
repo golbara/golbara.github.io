@@ -15,7 +15,7 @@ comments: false
 |----|------|--------------------------------|
 |2020|Fall  | **<a href="/ds98/">Work shop</a>** |
 |----|------|--------------------------------|
-|2020|Fall  | **<a href="">Getting to know computing</a>** |
+|2020|Fall  | **<a href="">Getting to know my major</a>** |
 
 
 |           | **Past**                       |
@@ -24,5 +24,5 @@ comments: false
 |----|------|--------------------------------|
 |2020|Summer| **<a href="/ap97/">Studying for "Entrance Exame"</a>** |
 |----|------|--------------------------------|
-|2020|Summer| **<a href="/nlp97/">Htudying for "Entrance Exame"</a>** |
+|2020|Summer| **<a href="/nlp97/">Studying for "Entrance Exame"</a>** |
 |----|------|--------------------------------|
