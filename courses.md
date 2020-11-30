@@ -13,7 +13,7 @@ comments: false
 |----|------|--------------------------------|
 |2020|Fall  | **Computer Programming Fundamentals**         |
 |----|------|--------------------------------|
-|2020|Fall  | **"Work shop** |
+|2020|Fall  | **Work shop** |
 |----|------|--------------------------------|
 |2020|Fall  | **Getting to know my major** |
 
@@ -22,7 +22,7 @@ comments: false
 |----|------|--------------------------------|
 |2020|Summer| **Enjoying my holiday :) **         |
 |----|------|--------------------------------|
-|2020|Summer| ** "Entrance Exame"** |
+|2020|Summer| ** Entrance Exame** |
 |----|------|--------------------------------|
 |2020|Summer| **Studying for "Entrance Exame"** |
 |----|------|--------------------------------|
