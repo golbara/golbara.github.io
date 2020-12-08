@@ -18,6 +18,5 @@ comments: true
 * شهریار (Shahriyar)
 
 ### phisycians:
-* all dedicated doctors
-* Doctor Gharib (دکتر قریب)
-* All doctors who spare no pain to help people at the time of COVID 19
+* All dedicated doctors
+* All health_workers who have been working dedicatedly during the hard time of Covid_19
