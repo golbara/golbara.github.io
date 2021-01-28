@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Valuable advice
+layout: post
+title: Valuable advice
 ---
 
 # ***The valuable advice*** :
