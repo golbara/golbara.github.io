@@ -32,7 +32,7 @@ gallery:
      title: "niagara title captoin"
   -  url: /assets/images/Screenshot 2021-01-28 blogpost.jpg
      alt: "placeholder Screenshot 2021-01-28 blogpost"
-     title: "niagara title captoin"
+     title: "mywall paper title captoin"
 ---
 
 
