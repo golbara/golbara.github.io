@@ -30,6 +30,9 @@ gallery:
   -  url: /assets/images/niagara.jpg
      alt: "placeholder image niagara"
      title: "niagara title captoin"
+  -  url: /assets/images/Screenshot 2021-01-28 blogpost.jpg
+     alt: "placeholder Screenshot 2021-01-28 blogpost"
+     title: "niagara title captoin"
 ---
 
 
