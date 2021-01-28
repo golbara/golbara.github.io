@@ -150,10 +150,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url:"https://golbara.github.io"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-Linkedin"
+      # url:"https://www.linkedin.com/in/golbarg-sepehrara-7a6133201/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
