@@ -130,7 +130,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-Linkedin-square"
-      url: "https://www.linkedin.com/in/"
+      # url: "https://www.linkedin.com/in/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -139,20 +139,20 @@ author:
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/"
+      # url: "http://calendly.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url:"http://teitter.com/G_S"
+      # url:"http://teitter.com/G_S"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:"https://golbara.github.io"
+      # url:"https://golbara.github.io"
     - label: "Linkedin"
       icon: "fab fa-fw fa-Linkedin"
       # url:"https://www.linkedin.com/"
