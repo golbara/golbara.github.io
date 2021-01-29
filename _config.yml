@@ -115,7 +115,7 @@ author:
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: golbara
-  instagram: 
+  instagram: https://www.linkedin.com/in/golbarg-sepehrara-7a6133201/
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,7 +128,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-Linkedin-square"
-      # url: "https://www.linkedin.com/in/golbarg-sepehrara-7a6133201/"
+      url: "https://www.linkedin.com/in/golbarg-sepehrara-7a6133201/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -144,16 +144,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:"http://teitter.com/G_S"
+      url:"http://teitter.com/G_S"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:"https://golbara.github.io"
+      url:"https://golbara.github.io"
     - label: "Linkedin"
       icon: "fab fa-fw fa-Linkedin"
-      # url:"https://www.linkedin.com/in/golbarg-sepehrara-7a6133201/"
+      url:"https://www.linkedin.com/in/golbarg-sepehrara-7a6133201/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
