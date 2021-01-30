@@ -10,7 +10,7 @@ title: Ashnai
     .فعالیتهایی بود که باید برای این درس انجام می دادیم
     .برای اطلاعات بیشتر بر روی لینک زیر کلیک کنید
 
-    **[link](https://sauleh.github.io/co98/)**
+    [link](https://sauleh.github.io/co98/)
 
 
 
