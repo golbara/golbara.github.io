@@ -27,18 +27,18 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
-  -  url: /assets/images/niagara.jpg
-     alt: "placeholder image niagara"
-     title: "niagara title captoin"
-  -  url: /assets/images/Screenshot 2021-01-28 blogpost.jpg
-     alt: "placeholder Screenshot 2021-01-28 blogpost"
-     title: "mywall paper title captoin"
-  -  url: /assets/images/99l.jpg
-     alt: "placeholder teams"
-     title: "mywall paper title captoin"
-  -  url: /assets/images/99.jpg
-     alt: "placeholder proj"
-     title: "mywall paper title captoin"
+  - url: /assets/images/niagara.jpg
+    alt: "placeholder image niagara"
+    title: "niagara title captoin"
+  - url: /assets/images/Screenshot 2021-01-28 blogpost.jpg
+    alt: "placeholder Screenshot 2021-01-28 blogpost"
+    title: "mywall paper title captoin"
+  - url: /assets/images/99l.jpg
+    alt: "placeholder teams"
+    title: "mywall paper title captoin"
+  - url: /assets/images/99.jpg
+    alt: "placeholder proj"
+    title: "mywall paper title captoin"
 ---
 
 
