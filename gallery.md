@@ -28,15 +28,19 @@ gallery:
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
   - url: /assets/images/niagara.jpg
+    image_path: /assets/images/niagara.jpg
     alt: "placeholder image niagara"
     title: "niagara title captoin"
   - url: /assets/images/Screenshot 2021-01-28blogpost.jpg
+    image_path: /assets/images/Screenshot 2021-01-28blogpost.jpg
     alt: "placeholder Screenshot 2021-01-28 blogpost"
     title: "mywall paper title captoin"
   - url: /assets/images/99l.jpg
+    image_path: /assets/99l.jpg
     alt: "placeholder teams"
     title: "mywall paper title captoin"
   - url: /assets/images/99.jpg
+    image_path: /assets/99.jpg
     alt: "placeholder proj"
     title: "mywall paper title captoin"
 ---
