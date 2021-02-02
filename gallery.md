@@ -35,8 +35,8 @@ gallery:
     image_path: /assets/images/Screenshot2021-01-28blogpost.jpg
     alt: "placeholder Screenshot2021-01-28blogpost"
     title: "mywall paper title captoin"
-  - url: /assets/images/99l.jpeg
-    image_path: /assets/images/99l.jpeg
+  - url: /assets/images/99l.jpg
+    image_path: /assets/images/99l.jpg
     alt: "placeholder teams"
     title: "mywall paper title captoin"
   - url: /assets/images/99.jpg
