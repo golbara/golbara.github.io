@@ -44,6 +44,7 @@ gallery:
     alt: "placeholder proj"
     title: "mywall paper title captoin"
 ---
+{% include gallery caption="" %}
 
 
 
