@@ -38,11 +38,11 @@ gallery:
   - url: /assets/images/99l.jpg
     image_path: /assets/images/99l.jpg
     alt: "placeholder teams"
-    title: "mywall paper title captoin"
+    title: "mywall paper "
   - url: /assets/images/99.jpg
     image_path: /assets/images/99.jpg
     alt: "placeholder proj"
-    title: "mywall paper title captoin"
+    title: "mywall paper "
 ---
 {% include gallery caption="" %}
 
