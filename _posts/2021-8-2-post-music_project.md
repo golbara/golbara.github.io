@@ -25,4 +25,5 @@ the Greatest Showman (from now onآهنگ)الهام گرفتم.
 سونیک‌پای یکی از جالب ترین و البته سخترین پروژه‌هایی بود که باید انجام میدادم،ولی حالا به چیزهایی رسیدم که تا قبل این پروژه نداشتم 
 یعنی هم از دانش موسیقی اطلاعاتی به دست آوردم و هم می‌توانم هر وقت که از تلاش خسته شدم،به این گوش بدم و به یاد بیاورم که حتی اپل هم 
 .همیشه موفق نمی‌باشد
-click to listen to my *[Sonic Pi](https://1drv.ms/u/s!As5xm8Xa-_A7gm6Dp3XHlEb64wVr)* project.
+<br>click to listen to my *[Sonic Pi](https://1drv.ms/u/s!As5xm8Xa-_A7gm6Dp3XHlEb64wVr)* project.</br>
+<br>for downloading SOnic Pi click on **[Me](https://sonic-pi.net/#windows)**</br>
