@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: پروژه‌ی موسیقی
+title: Sonic Pi
 ---
 
 # **پروژه‌ی موسیقی**
