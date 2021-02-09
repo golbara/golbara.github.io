@@ -26,4 +26,4 @@ the Greatest Showman (from now onآهنگ)الهام گرفتم.
 یعنی هم از دانش موسیقی اطلاعاتی به دست آوردم و هم می‌توانم هر وقت که از تلاش خسته شدم،به این گوش بدم و به یاد بیاورم که حتی اپل هم 
 .همیشه موفق نمی‌باشد
 <br>click to listen to my *[Sonic Pi](https://1drv.ms/u/s!As5xm8Xa-_A7gm6Dp3XHlEb64wVr)* project.
-<br>for downloading SOnic Pi click on **[Me](https://sonic-pi.net/#windows)**.
+<br>for downloading Sonic Pi click on **[Me](https://sonic-pi.net/#windows)**.
